@@ -1,1 +1,1 @@
-# ires_accademy_java_2022
+# ires_academy_java_2022
